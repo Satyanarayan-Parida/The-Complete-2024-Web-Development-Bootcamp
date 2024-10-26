@@ -1,0 +1,24 @@
+#first{
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    background-color: cadetblue;
+    padding: 20px;
+    text-align: center;
+}
+
+#second{
+    width: 200px;
+    height: 200px;
+    border:solid black;
+    border-width: 20px 10px;
+    background-color: gold;
+    margin-left: 260px;
+}
+#third{
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    background-color: indianred;
+    margin-left:40px;
+}
